@@ -188,17 +188,17 @@ biomolecules in drug discovery.
 <pre>
 01  UNDERSTAND THE BIOLOGY
           ↓
-02  UNDERSTAND THE DATA
-          ↓
-03  LEARN THE TOOL
-          ↓
-04  BUILD
-          ↓
-05  TEST
-          ↓
-06  IMPROVE
-          ↓
-07  REPEAT
+02       UNDERSTAND THE DATA
+                           ↓
+03                         LEARN THE TOOL
+                                       ↓
+04                                    BUILD
+                                         ↓
+05                                      TEST
+                                           ↓
+06                                         IMPROVE
+                                                 ↓
+07                                               REPEAT
 </pre>
 
 ---
