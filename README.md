@@ -1,26 +1,37 @@
 <div align="center">
 
-# 👋 Hi, I'm Makhdum Alam
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Biotechnology+Graduate;Bioinformatics+Learner;Computational+Biology+Enthusiast;Learning+Python+%26+Linux" alt="Typing SVG" />
+# 🧬 `MAKHDUM_ALAM`
 
-🧬 **Biotechnology → Bioinformatics → Computational Biology**
+### `> BIOINFORMATICS // COMPUTATIONAL_BIOLOGY`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Biotechnology+Graduate;Bioinformatics+Learner;Computational+Biology+Enthusiast;Python+%7C+Linux+%7C+Genomics;Building+Skills+One+Project+at+a+Time" />
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=makhdum662-max&style=for-the-badge&color=00ff9c)
 
 </div>
 
 ---
 
-## 🧬 About Me
+## `> SYSTEM_PROFILE`
 
-I'm a **Biotechnology graduate** developing my skills at the intersection of
-biology, bioinformatics and computational science.
-
-My interests include **bioinformatics, molecular biology, genomics,
-computational biology and biological data analysis**.
-
-I enjoy learning through practical work, research internships and
-hands-on projects.
-
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   USER       : Makhdum Alam                          ║
+║   FIELD      : Biotechnology                         ║
+║   SPECIALTY  : Bioinformatics                        ║
+║   FOCUS      : Computational Biology                 ║
+║   STATUS     : MSc Student                           ║
+║   LOCATION   : India 🇮🇳                             ║
+║                                                      ║
+║   SYSTEM     : LEARNING MODE                         ║
+║   STATUS     : ● ONLINE                              ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ---
 
 ## 🔬 Research & Practical Experience
